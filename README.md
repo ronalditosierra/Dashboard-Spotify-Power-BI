@@ -11,7 +11,7 @@ Este proyecto presenta un dashboard interactivo de **Power BI** inspirado en la 
 ## 🚀 Vista Previa
 > [!IMPORTANT]
 > Inserta aquí una captura de pantalla de tu dashboard final para que los reclutadores lo vean de inmediato.
-> `![Dashboard Preview](URL_DE_TU_IMAGEN)`
+> `https://drive.google.com/file/d/1upPlsDmIRCnbbGJcE71QUPzgI4N5udDA/view?usp=sharing`
 
 ---
 
@@ -45,8 +45,3 @@ El dataset incluye información detallada sobre:
 
 ---
 
-## 🛠️ Instalación y Uso
-
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/spotify-dashboard-pbi.git](https://github.com/TU_USUARIO/spotify-dashboard-pbi.git)
